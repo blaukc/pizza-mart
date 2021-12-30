@@ -1,0 +1,28 @@
+{
+  "name": "pizza-mart",
+  "proxy": "http://localhost:8000",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "@types/react-redux": "^7.1.20",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.0.4",
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.6",
+    "swr": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.2",
+    "@types/react": "17.0.37",
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.4"
+  }
+}

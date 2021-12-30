@@ -1,0 +1,6 @@
+/pizzabackend/pg.py
+/pizzabackend/env.py
+*.log
+*.pot
+*.pyc
+__pycache__/
